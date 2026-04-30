@@ -16,3 +16,7 @@ Currently under development. This project is part of my learning journey in back
 - API integration for real flight data
 - Advanced filtering options
 - Improved user interface
+## How to Run
+
+```bash
+python Flight_Search_CLI_App.py
